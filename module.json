@@ -1,0 +1,109 @@
+{
+  "id": "grotesque-compendiums",
+  "title": "Grotesque Compendiums",
+  "version": "6.6.6",
+"manifest": "https://github.com/GrotesqueZombie/Grotesque-Compendiums/releases/latest/download/module.json",
+"download": "https://github.com/GrotesqueZombie/Grotesque-Compendiums/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "kernethalascsb",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "custom-system-builder",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Content for Blackoath Entertainment's Ker Nethalas and Carnage &amp; Aether.\nPackage includes Actors, Items, Roll Tables, etc..",
+  "authors": [
+    {
+      "name": "Grotesque Games",
+      "url": "https://www.youtube.com/@GrotesqueGames",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "ca-actors-and-templates",
+      "label": "CA Actors & Templates",
+      "path": "packs/ca-actors-and-templates",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
+      "name": "kn-actors-and-templates",
+      "label": "KN Actors & Templates",
+      "path": "packs/kn-actors-and-templates",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
+      "name": "kn-armoury",
+      "label": "KN Armoury",
+      "path": "packs/kn-armoury",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
+      "name": "ca-macros",
+      "label": "CA Macros",
+      "path": "packs/ca-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
+      "name": "ca-roll-tables",
+      "label": "CA Roll Tables",
+      "path": "packs/ca-roll-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
+      "name": "kn-roll-tables",
+      "label": "KN Roll Tables",
+      "path": "packs/kn-roll-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    }
+  ]
+}
