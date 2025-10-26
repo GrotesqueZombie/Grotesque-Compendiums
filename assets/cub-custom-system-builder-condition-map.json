@@ -1,0 +1,304 @@
+{
+  "system": "custom-system-builder",
+  "map": [
+    {
+      "id": "3bxWYaNFtCbUh9Bm",
+      "name": "Bleeding",
+      "icon": "icons/svg/blood.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.K5UScQkbrVUhuuWg]{Bleeding}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.K5UScQkbrVUhuuWg\" data-id=\"K5UScQkbrVUhuuWg\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Bleeding</a>",
+      "hidden": false
+    },
+    {
+      "id": "8sbIbdeWd45rAgl5",
+      "name": "Blinded",
+      "icon": "icons/svg/blind.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.Rq9XQ3b6BsYA7ezA]{Blinded}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.Rq9XQ3b6BsYA7ezA\" data-id=\"Rq9XQ3b6BsYA7ezA\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Blinded</a>",
+      "hidden": false
+    },
+    {
+      "id": "khdTzWFl5ixGBfR3",
+      "name": "Burning",
+      "icon": "icons/svg/fire.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.JgWybj71P9rO1yhA]{Burning}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.JgWybj71P9rO1yhA\" data-id=\"JgWybj71P9rO1yhA\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Burning</a>",
+      "hidden": false
+    },
+    {
+      "id": "9HiNdHMEsHwbqYKe",
+      "name": "Charmed",
+      "icon": "icons/svg/heal.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.7f7j3OAw9JcpziwO]{Charmed}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.7f7j3OAw9JcpziwO\" data-id=\"7f7j3OAw9JcpziwO\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Charmed</a>",
+      "hidden": false
+    },
+    {
+      "id": "21zPtvNH9toU51Qv",
+      "name": "Concealed",
+      "icon": "icons/svg/invisible.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.hcscyEHNWnT6Dt55]{Concealed}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.hcscyEHNWnT6Dt55\" data-id=\"hcscyEHNWnT6Dt55\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Concealed</a>",
+      "hidden": false
+    },
+    {
+      "id": "gNk01I494qgkncor",
+      "name": "Cursed",
+      "icon": "icons/svg/skull.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.oS8O5hNIxGrNBWB8]{Cursed}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.oS8O5hNIxGrNBWB8\" data-id=\"oS8O5hNIxGrNBWB8\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Cursed</a>",
+      "hidden": false
+    },
+    {
+      "id": "PkY0f9SCztO72wSn",
+      "name": "Dazed",
+      "icon": "icons/svg/stoned.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.Y8PUe3FjxSBKnEW8]{Dazed}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.Y8PUe3FjxSBKnEW8\" data-id=\"Y8PUe3FjxSBKnEW8\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Dazed</a>",
+      "hidden": false
+    },
+    {
+      "id": "WxXcqRb8VGsI7ugX",
+      "name": "Frightened",
+      "icon": "icons/svg/terror.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.8CJ7qdCILYqPGyhF]{Frightened}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.8CJ7qdCILYqPGyhF\" data-id=\"8CJ7qdCILYqPGyhF\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Frightened</a>",
+      "hidden": false
+    },
+    {
+      "id": "UCPiePmVjFuBhhBE",
+      "name": "Hindered",
+      "icon": "icons/svg/downgrade.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.yx8xvEXF2Wq6xxcT]{Hindered}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.yx8xvEXF2Wq6xxcT\" data-id=\"yx8xvEXF2Wq6xxcT\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Hindered</a>",
+      "hidden": false
+    },
+    {
+      "id": "xjsYushwk0h5lvmp",
+      "name": "Paralyzed",
+      "icon": "icons/svg/paralysis.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.pwvEBs0PaU0Ah3Gp]{Paralyzed}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.pwvEBs0PaU0Ah3Gp\" data-id=\"pwvEBs0PaU0Ah3Gp\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Paralyzed</a>",
+      "hidden": false
+    },
+    {
+      "id": "XG68SFl3Y6IntzvS",
+      "name": "Poisoned",
+      "icon": "icons/svg/poison.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.gBrzU1p3uXLFGJRV]{Poisoned}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.gBrzU1p3uXLFGJRV\" data-id=\"gBrzU1p3uXLFGJRV\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Poisoned</a>",
+      "hidden": false
+    },
+    {
+      "id": "P0WcUdwNIKA5sGuE",
+      "name": "Prone",
+      "icon": "icons/svg/falling.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.eo9Zx05mzyKVONsK]{Prone}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.eo9Zx05mzyKVONsK\" data-id=\"eo9Zx05mzyKVONsK\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Prone</a>",
+      "hidden": false
+    },
+    {
+      "id": "t0Y835PjWdfqvgXX",
+      "name": "Restrained",
+      "icon": "icons/svg/net.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.SkTTYQIqr90SNpSA]{Restrained}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.SkTTYQIqr90SNpSA\" data-id=\"SkTTYQIqr90SNpSA\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Restrained</a>",
+      "hidden": false
+    },
+    {
+      "id": "zVGYHsCLKl9Rzh6R",
+      "name": "Sickened",
+      "icon": "icons/svg/biohazard.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.vutdvmnEUS73JTd7]{Sickened}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.vutdvmnEUS73JTd7\" data-id=\"vutdvmnEUS73JTd7\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Sickened</a>",
+      "hidden": false
+    },
+    {
+      "id": "22SL5KLgJ7HebYsF",
+      "name": "Sleeping",
+      "icon": "icons/svg/sleep.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.rU5XzRiM6dP1jWfK]{Sleeping}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.rU5XzRiM6dP1jWfK\" data-id=\"rU5XzRiM6dP1jWfK\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Sleeping</a>",
+      "hidden": false
+    },
+    {
+      "id": "ijfGIWQti2pLNbjD",
+      "name": "Stunned",
+      "icon": "icons/svg/daze.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.7Mg3SrqcdAraj5I6]{Stunned}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.7Mg3SrqcdAraj5I6\" data-id=\"7Mg3SrqcdAraj5I6\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Stunned</a>",
+      "hidden": false
+    },
+    {
+      "id": "nRNlA3h5uxKkeiNo",
+      "name": "Dodged",
+      "icon": "icons/svg/wingfoot.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.z0nQXAUyG6iLEDcl]{Dodged}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.z0nQXAUyG6iLEDcl\" data-id=\"z0nQXAUyG6iLEDcl\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Dodged</a>",
+      "hidden": false
+    },
+    {
+      "id": "xtNuqlly7v1cxdRd",
+      "name": "Parried",
+      "icon": "icons/svg/combat.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.ARxe2Vmhl0jipblk]{Parried}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.ARxe2Vmhl0jipblk\" data-id=\"ARxe2Vmhl0jipblk\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Parried</a>",
+      "hidden": false
+    },
+    {
+      "id": "PUjUlyhwB9kvXrcA",
+      "name": "Reacted",
+      "icon": "icons/svg/lightning.svg",
+      "referenceId": "@UUID[JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.46l4sXkqq8Gt8fLw]{Reacted}",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.PSv7Gafp4lP7JldA.JournalEntryPage.46l4sXkqq8Gt8fLw\" data-id=\"46l4sXkqq8Gt8fLw\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\"><i class=\"fas fa-file-lines\"></i>Reacted</a>",
+      "hidden": false
+    },
+    {
+      "id": "1B3yzeUqGzEykqzV",
+      "name": "Advantage",
+      "icon": "Carnage%20%26%20Aether/Tokens/Advantage%20Token.png",
+      "referenceId": "",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "rVFbMUEMD1JxxmzX",
+      "name": "Disadvantage",
+      "icon": "Carnage%20%26%20Aether/Tokens/Disadvantage%20Token.png",
+      "referenceId": "",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "W4ebT4zA53iUvLVu",
+      "name": "Determination",
+      "icon": "Carnage%20%26%20Aether/Tokens/Determination%20Token.png",
+      "referenceId": "",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "ji1hsDvWh08caPqv",
+      "name": "Favor of the Crowd",
+      "icon": "Carnage%20%26%20Aether/Tokens/Favor%20of%20the%20Crowd%20Token.png",
+      "referenceId": "",
+      "options": {
+        "outputChat": true
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    }
+  ]
+}
