@@ -7,19 +7,19 @@ Now compatible with V13 and combined with KerNethalasCSB! Thank you, Forelius, f
 - New Mastery Template for Book of Masteries
 - KN Opponents and Overseers (Including enemies from The Valorian Codices)
 - KN Items and Relics
-- I have included all my roll tables, including a couple from The Valorian Codices:
-• Commoner Backstory roll table
-• Checking For Doors (Is it trapped?/Is it locked?)
-• Creature Defense Moves/Creature Fumbles
+- I have included all my roll tables, including a couple from The Valorian Codices:<br/>
+• Commoner Backstory roll table<br/>
+• Checking For Doors (Is it trapped?/Is it locked?)<br/>
+• Creature Defense Moves/Creature Fumbles<br/>
 • Finding Containers (Container Loot), etc...
 
 ![image](https://github.com/user-attachments/assets/632a88ad-0600-4cd7-82bb-e10f4b62c650)
 - CA Opponents (Elite, Standard, and Support)
 - CA Mastery Minions
-- I have also provided my roll tables:
-• Bloodied
-• Components
-• Defense Moves and Fumbles
-• Hit Locations
-• Opponents
+- I have also provided my roll tables:<br/>
+• Bloodied<br/>
+• Components<br/>
+• Defense Moves and Fumbles<br/>
+• Hit Locations<br/>
+• Opponents<br/>
 • Phases, etc...
