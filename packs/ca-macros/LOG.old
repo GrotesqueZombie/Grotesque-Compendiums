@@ -1,23 +1,8 @@
-2025/10/26-17:05:10.837 6624 Recovering log #629
-2025/10/26-17:05:10.837 6624 Level-0 table #631: started
-2025/10/26-17:05:10.851 6624 Level-0 table #631: 1547 bytes OK
-2025/10/26-17:05:10.863 6624 Delete type=0 #629
-2025/10/26-17:05:10.863 6624 Delete type=3 #628
-2025/10/26-17:25:12.508 4d10 Level-0 table #634: started
-2025/10/26-17:25:12.509 4d10 Level-0 table #634: 0 bytes OK
-2025/10/26-17:25:12.511 4d10 Delete type=0 #632
-2025/10/26-17:25:12.511 4d10 Manual compaction at level-0 from '!macros!HXRMeGFyavXqEG2c' @ 72057594037927935 : 1 .. '!macros!NnWRfoJXUIKReCGO' @ 0 : 0; will stop at '!macros!NnWRfoJXUIKReCGO' @ 6 : 1
-2025/10/26-17:25:12.511 4d10 Compacting 1@0 + 0@1 files
-2025/10/26-17:25:12.515 4d10 Generated table #635@0: 2 keys, 1547 bytes
-2025/10/26-17:25:12.515 4d10 Compacted 1@0 + 0@1 files => 1547 bytes
-2025/10/26-17:25:12.517 4d10 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/10/26-17:25:12.517 4d10 Delete type=2 #631
-2025/10/26-17:25:12.530 4d10 Manual compaction at level-0 from '!macros!NnWRfoJXUIKReCGO' @ 6 : 1 .. '!macros!NnWRfoJXUIKReCGO' @ 0 : 0; will stop at (end)
-2025/10/26-17:25:12.551 4d10 Manual compaction at level-1 from '!macros!HXRMeGFyavXqEG2c' @ 72057594037927935 : 1 .. '!macros!NnWRfoJXUIKReCGO' @ 0 : 0; will stop at '!macros!NnWRfoJXUIKReCGO' @ 6 : 1
-2025/10/26-17:25:12.551 4d10 Compacting 1@1 + 1@2 files
-2025/10/26-17:25:12.554 4d10 Generated table #636@1: 2 keys, 1547 bytes
-2025/10/26-17:25:12.554 4d10 Compacted 1@1 + 1@2 files => 1547 bytes
-2025/10/26-17:25:12.556 4d10 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/10/26-17:25:12.556 4d10 Delete type=2 #5
-2025/10/26-17:25:12.556 4d10 Delete type=2 #635
-2025/10/26-17:25:12.559 4d10 Manual compaction at level-1 from '!macros!NnWRfoJXUIKReCGO' @ 6 : 1 .. '!macros!NnWRfoJXUIKReCGO' @ 0 : 0; will stop at (end)
+2025/10/26-17:26:43.570 4934 Recovering log #633
+2025/10/26-17:26:43.576 4934 Delete type=0 #633
+2025/10/26-17:26:43.577 4934 Delete type=3 #630
+2025/10/26-17:28:10.121 4d10 Level-0 table #640: started
+2025/10/26-17:28:10.121 4d10 Level-0 table #640: 0 bytes OK
+2025/10/26-17:28:10.123 4d10 Delete type=0 #638
+2025/10/26-17:28:10.131 4d10 Manual compaction at level-0 from '!macros!HXRMeGFyavXqEG2c' @ 72057594037927935 : 1 .. '!macros!NnWRfoJXUIKReCGO' @ 0 : 0; will stop at (end)
+2025/10/26-17:28:10.131 4d10 Manual compaction at level-1 from '!macros!HXRMeGFyavXqEG2c' @ 72057594037927935 : 1 .. '!macros!NnWRfoJXUIKReCGO' @ 0 : 0; will stop at (end)

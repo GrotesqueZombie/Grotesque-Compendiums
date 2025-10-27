@@ -1,24 +1,8 @@
-2025/10/26-17:05:10.812 4934 Recovering log #630
-2025/10/26-17:05:10.814 4934 Level-0 table #632: started
-2025/10/26-17:05:10.820 4934 Level-0 table #632: 143615 bytes OK
-2025/10/26-17:05:10.832 4934 Delete type=0 #630
-2025/10/26-17:05:10.832 4934 Delete type=3 #629
-2025/10/26-17:25:12.524 4d10 Level-0 table #635: started
-2025/10/26-17:25:12.527 4d10 Level-0 table #635: 45333 bytes OK
-2025/10/26-17:25:12.530 4d10 Delete type=0 #633
-2025/10/26-17:25:12.542 4d10 Manual compaction at level-0 from '!folders!6OeyY3E4rZXGEMxc' @ 72057594037927935 : 1 .. '!items!zspqUrzkQDNYHkY7' @ 0 : 0; will stop at '!items!zspqUrzkQDNYHkY7' @ 111 : 1
-2025/10/26-17:25:12.542 4d10 Compacting 2@0 + 0@1 files
-2025/10/26-17:25:12.548 4d10 Generated table #636@0: 66 keys, 181104 bytes
-2025/10/26-17:25:12.548 4d10 Compacted 2@0 + 0@1 files => 181104 bytes
-2025/10/26-17:25:12.550 4d10 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/10/26-17:25:12.551 4d10 Delete type=2 #632
-2025/10/26-17:25:12.551 4d10 Delete type=2 #635
-2025/10/26-17:25:12.559 4d10 Manual compaction at level-0 from '!items!zspqUrzkQDNYHkY7' @ 111 : 1 .. '!items!zspqUrzkQDNYHkY7' @ 0 : 0; will stop at (end)
-2025/10/26-17:25:12.572 4d10 Manual compaction at level-1 from '!folders!6OeyY3E4rZXGEMxc' @ 72057594037927935 : 1 .. '!items!zspqUrzkQDNYHkY7' @ 0 : 0; will stop at '!items!zspqUrzkQDNYHkY7' @ 111 : 1
-2025/10/26-17:25:12.572 4d10 Compacting 1@1 + 1@2 files
-2025/10/26-17:25:12.579 4d10 Generated table #637@1: 69 keys, 181339 bytes
-2025/10/26-17:25:12.579 4d10 Compacted 1@1 + 1@2 files => 181339 bytes
-2025/10/26-17:25:12.581 4d10 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/10/26-17:25:12.581 4d10 Delete type=2 #26
-2025/10/26-17:25:12.581 4d10 Delete type=2 #636
-2025/10/26-17:25:12.585 4d10 Manual compaction at level-1 from '!items!zspqUrzkQDNYHkY7' @ 111 : 1 .. '!items!zspqUrzkQDNYHkY7' @ 0 : 0; will stop at (end)
+2025/10/26-17:26:43.559 5158 Recovering log #634
+2025/10/26-17:26:43.565 5158 Delete type=0 #634
+2025/10/26-17:26:43.565 5158 Delete type=3 #631
+2025/10/26-17:28:10.129 4d10 Level-0 table #641: started
+2025/10/26-17:28:10.129 4d10 Level-0 table #641: 0 bytes OK
+2025/10/26-17:28:10.131 4d10 Delete type=0 #639
+2025/10/26-17:28:10.131 4d10 Manual compaction at level-0 from '!folders!6OeyY3E4rZXGEMxc' @ 72057594037927935 : 1 .. '!items!zspqUrzkQDNYHkY7' @ 0 : 0; will stop at (end)
+2025/10/26-17:28:10.131 4d10 Manual compaction at level-1 from '!folders!6OeyY3E4rZXGEMxc' @ 72057594037927935 : 1 .. '!items!zspqUrzkQDNYHkY7' @ 0 : 0; will stop at (end)
