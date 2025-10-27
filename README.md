@@ -3,7 +3,7 @@ This module aims to help new players quickly engage with Ker Nethalas and Carnag
 Now compatible with V13 and combined with KerNethalasCSB! Thank you, Forelius, for allowing me to include your original code and templates!
 -----
 ![image](https://github.com/user-attachments/assets/9288dd49-210d-4ffb-8fb1-d78a9f508231)
-- An updated KN Character Sheet (Fixes and now has a slot for shield/integrity): Listed as "Character.2"
+- An updated KN Character Sheet (Fixes and now has a slot for shield/integrity): Listed as "_Character.2"
 - New Mastery Template for Book of Masteries
 - KN Opponents and Overseers (Including enemies from The Valorian Codices)
 - KN Items and Relics
