@@ -23,3 +23,11 @@ Now compatible with V13 and combined with KerNethalasCSB! Thank you, Forelius, f
 • Hit Locations<br/>
 • Opponents<br/>
 • Phases, etc...
+
+**_*REMINDER*_**: While importing content from any of my Compendiums, please remember to tick the box for "Keep Document IDs."
+-----
+![KeepIDs](https://github.com/user-attachments/assets/626c2347-0944-41e4-8d16-fea96d4d803f)<br/>
+**In order to view the coded CSS, please enable Legacy view for V1 sheets and switch sheet configuration to Legacy.**<br/>
+-----
+<center><img width="540" height="151" alt="image" src="https://github.com/user-attachments/assets/154ba80a-d1a3-43aa-9dd3-81a2d9e18b49" /></center><br/>
+<center><img width="631" height="491" alt="image" src="https://github.com/user-attachments/assets/bd6339a2-a353-441b-92ea-56fd9cea2740" /></center>
